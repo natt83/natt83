@@ -1,4 +1,4 @@
-![gato programador](https://www.google.com/search?q=imagen+gato+programador&rlz=1C1GCEA_enES1003ES1003&oq=imagen+gato+programador&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCjIzODQyajBqMTWoAgCwAgA&sourceid=chrome&ie=UTF-8#vhid=6MqfXHtxdOJ5BM&vssid=l)
+![gato programador](https://github.com/natt83/img-assests/blob/main/images/gatopc.jpg)
  - 👋 Hi, I’m @natt83
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning full stack and cloud web programming
